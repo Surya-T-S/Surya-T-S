@@ -1,4 +1,4 @@
-# Yes it's me Surya T S 
+# Well hello there !
 
 Computer Science as one of the pieces of my life.
 
