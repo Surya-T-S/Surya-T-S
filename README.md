@@ -4,7 +4,7 @@ Computer Science as one of the pieces of my life.
 
 ---
 
-## 🛠️ Tech i know
+## 🛠️ Proficiencies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,mysql,git,github,linux,nginx,electron,docker" alt="Tech Stack" />
